@@ -103,6 +103,8 @@ Main Advice:
 Priority Assessment:
 <Low / Medium / High Priority based on urgency>
 
+#checking/ testing the activity logs by commits.
+
 Medical Assessment:
 <likely diagnosis or suspected cause>
 
@@ -206,3 +208,4 @@ disclaimer = (
 tk.Label(root, text=disclaimer, font=("Arial", 8), wraplength=580, justify="center", fg="gray").pack(pady=8)
 
 root.mainloop()
+
